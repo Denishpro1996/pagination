@@ -1,0 +1,34 @@
+.abc a {
+  background-color: rgb(194, 139, 20);
+  color: white !important;
+  border-radius: 50%;
+  padding: 5px 10px;
+}
+.abc {
+  width: 50px;
+}
+.prev_button {
+  width: 250px;
+  margin: 0 50px;
+}
+.paginat_list {
+  width: 50vw;
+  border: 2px solid black;
+  display: flex;
+}
+.paginat_list li {
+  list-style: none;
+  width: 50px;
+  text-decoration: none;
+}
+.paginat_list ul li a {
+  text-decoration: none;
+  color: black;
+}
+.paginat_list ul {
+  display: flex;
+}
+.total_page {
+  width: 150px;
+  border: 2px solid black;
+}
